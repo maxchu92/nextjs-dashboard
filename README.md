@@ -1,2 +1,3 @@
 # nextjs-training
-Next.JS Training
+
+This is a repository for learning Next.JS + React.JS
